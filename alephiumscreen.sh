@@ -140,4 +140,4 @@ rm SRBMiner-Multi-2-8-2-Linux.tar.gz
 
 cd SRBMiner-Multi-2-8-2
 
-./SRBMiner-MULTI --algorithm xelishashv2 --pool $pool --wallet $address.$worker_name --cpu-threads $cpu_threads
+./SRBMiner-MULTI --algorithm alephium --pool $pool --wallet $address.$worker_name --cpu-threads $cpu_threads
